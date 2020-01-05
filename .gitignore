@@ -26,7 +26,11 @@
 hs_err_pid*
 
 # Maven targets
-*/target/*
+/src/application/target/*
+/src/core/target/*
+/src/presentation/target/*
+/src/repository/target/*
+
 
 #################################################
 # IntelliJ
