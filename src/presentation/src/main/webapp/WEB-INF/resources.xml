@@ -2,7 +2,7 @@
 <tomee>
     <Resource id="bankDatabase" type="javax.sql.DataSource">
         JdbcDriver = org.h2.Driver
-        JdbcUrl = jdbc:h2:file:~/my_h2_db
+        JdbcUrl = jdbc:h2:file:~/my_db
         UserName = sa
         Password = sa
         jtaManaged = true
